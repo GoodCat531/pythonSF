@@ -21,6 +21,7 @@ def take_input(player_token):
                 valid = True
             else:
                 print ("Эта клеточка уже занята")
+                print ("Эта клетка уже занята")
         else:
             print ("Некорректный ввод. Введите число от 1 до 9 чтобы походить.")
 
